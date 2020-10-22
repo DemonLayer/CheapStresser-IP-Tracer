@@ -9,7 +9,7 @@ python DemonLayer-IP-Tracker.py
 
 ## Install
 ```
-git clone https://github.com/abaykan/trackout.git
+git clone https://github.com/demonlayer.git
 cd DemonLayer-IP-Tracker
 python demonlayer-ip-tracker.py
 ```
